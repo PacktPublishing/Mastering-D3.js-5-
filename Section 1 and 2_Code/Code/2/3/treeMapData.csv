@@ -1,0 +1,14 @@
+id,parent,size
+budget,,
+fun,budget,
+housing,budget,
+transportation,budget,
+movies,fun,20
+clothes,fun,150
+drinks,fun,85
+showTickets,fun,300
+cable,housing,100
+carpet,housing,300
+plantFood,housing,25
+gas,transportation,30
+carWashes,transportation,30

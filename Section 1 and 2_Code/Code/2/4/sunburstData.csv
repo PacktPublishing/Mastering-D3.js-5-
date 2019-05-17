@@ -1,0 +1,28 @@
+id,parent,size
+flavor,,
+tastes,flavor,
+aromas,flavor,
+sour,tastes,
+sweet,tastes,
+salt,tastes,
+bitter,tastes,
+winey,sour,22.5
+soury,sour,22.5
+mellow,sweet,22.5
+acidity,sweet,22.5
+bland,salt,22.5
+sharp,salt,22.5
+harsh,bitter,22.5
+pungent,bitter,22.5
+enzymatic,aromas,
+sugar browning,aromas,
+dry distillation,aromas,
+flowery,enzymatic,20
+fruity,enzymatic,20
+herby,enzymatic,20
+nutty,sugar browning,20
+carmelly,sugar browning,20
+chocolatey,sugar browning,20
+carbony,dry distillation,20
+spicy,dry distillation,20
+resinous,dry distillation,20

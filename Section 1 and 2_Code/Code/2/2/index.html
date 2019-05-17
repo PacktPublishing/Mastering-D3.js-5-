@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TreeLayout</title>
+	<meta charset="utf-8">
+	<meta content="width=device-width" name="viewport">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
+	<script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+	<style>
+		.node circle {
+		  fill: #999;
+		}
+
+		.node text {
+		  font: 10px sans-serif;
+		}
+
+		.link {
+		  fill: none;
+		  stroke: #555;
+		  stroke-opacity: 0.4;
+		  stroke-width: 1.5px;
+		}
+	</style>
+</head>
+<body>
+	<div id='chartWrapper' width="960" height="500"></div>
+	<script src='./lib.js'></script>
+	<script src='./treeLayout.js'></script>
+	<!-- <script src='./pieChart.js'></script> -->
+	<!-- <script src='./barChart.js'></script> -->
+	<script src='./prepData.js'></script>
+	<script src='./index.js'></script>
+</body>
+</html>

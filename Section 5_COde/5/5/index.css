@@ -1,0 +1,32 @@
+#buttonWrapper{
+	width: 165px;
+    float: left;
+    position: absolute;
+}
+
+.buttonG{
+	border: 2px solid steelblue;
+    display: inline-block;
+    text-align: left;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 0 10px;
+}
+
+.buttonG:hover{
+	background-color: darkgray;
+	color: white;
+	cursor: pointer
+}
+
+#barDiv{
+	width: 100%;
+}
+
+#barDiv{
+	height: 350px;
+}
+
+#pieDiv{
+	height: 265px;
+}

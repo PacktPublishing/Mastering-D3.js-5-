@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+}
+
+.countryPath{
+	stroke:ivory;
+	stroke-width:.075;
+}
+
+.countryPath:hover{
+	opacity: 1;
+	stroke: white;
+	stroke-width: .175;
+}
+.spherePath{
+	fill: navy
+}
+
+/*.singleLegendItem:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}*/

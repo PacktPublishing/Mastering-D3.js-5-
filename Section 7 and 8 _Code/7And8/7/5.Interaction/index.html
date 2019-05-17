@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WorldMapFun</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+	<script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
+	<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+	<link rel="stylesheet" href="./index.css">
+	<style>
+		.svgWrapper{
+			height: 100vh;
+			width: 100% ;
+			font-size: 32pt;
+			font-family: sans-serif;
+		}
+	</style>
+</head>
+<body>
+	<svg class='svgWrapper'></svg>
+	<script src='prepMap.js'></script>
+	<script src='prepdata.js'></script>
+	<script src='index.js'></script>
+</body>
+</html>

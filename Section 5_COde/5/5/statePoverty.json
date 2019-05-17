@@ -1,0 +1,67 @@
+[
+	{
+		"State": "California",
+		"TotalBelowPoverty": 5773408,
+		"Male": 2644246,
+		"Female": 3129162,
+		"White": 3183011,
+		"Black": 502610,
+		"AmericanIndian": 62078,
+		"Asian": 607792,
+		"PacificIslander": 21470,
+		"Other": 1141471,
+		"MultiRacial": 254976
+	},
+	{
+		"State": "Texas",
+		"TotalBelowPoverty": 4291384,
+		"Male": 1916989,
+		"Female": 2374395,
+		"White": 2992339,
+		"Black": 674132,
+		"AmericanIndian": 23707,
+		"Asian": 130111,
+		"PacificIslander": 3449,
+		"Other": 355547,
+		"MultiRacial": 112099
+	},
+	{
+		"State": "Florida",
+		"TotalBelowPoverty": 3070972,
+		"Male": 1387764,
+		"Female": 1683208,
+		"White": 2000476,
+		"Black": 781928,
+		"AmericanIndian": 11233,
+		"Asian": 67789,
+		"PacificIslander": 3035,
+		"Other": 115941,
+		"MultiRacial": 90570
+	},
+	{
+		"State": "New York",
+		"TotalBelowPoverty": 2908471,
+		"Male": 1284016,
+		"Female": 1624455,
+		"White": 1352714,
+		"Black": 670972,
+		"AmericanIndian": 19164,
+		"Asian": 272582,
+		"PacificIslander": 1570,
+		"Other": 474676,
+		"MultiRacial": 116793
+	},
+	{
+		"State": "Illinois",
+		"TotalBelowPoverty": 1698613,
+		"Male": 751968,
+		"Female": 946645,
+		"White": 912284,
+		"Black": 502014,
+		"AmericanIndian": 5736,
+		"Asian": 75018,
+		"PacificIslander": 501,
+		"Other": 149705,
+		"MultiRacial": 53355
+	}
+]

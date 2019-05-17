@@ -1,0 +1,13 @@
+.buttonG{
+	border: 2px solid steelblue;
+    display: inline-block;
+    text-align: left;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.buttonG:hover{
+	background-color: darkgray;
+	color: white;
+	cursor: pointer;
+}
